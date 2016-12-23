@@ -3,7 +3,6 @@
 title: "ISCB DC Regional Student Group (RSG)"
 description: "Homepage of the The International Society for Computational Biology DC area regional student group (DC-RSG)"
 logo: logo.png # 120x120 px default image used for Twitter summary card
-teaser: teaser.png # 400x250 px default teaser image used in image archive grid
 locale: en
 url: "https://iscb-dc-rsg.github.io"
 feed:
