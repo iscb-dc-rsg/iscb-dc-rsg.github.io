@@ -31,7 +31,8 @@ owner:
   avatar: bio-photo.jpg # 160x160 px image for author byline
 
 include:
-  - .htaccess
+  - ".htaccess"
+  - "_pages"
 exclude:
   - vendor
   - "*.less"

@@ -1,3 +1,0 @@
-# DC-RSG Events
-
-TODO
