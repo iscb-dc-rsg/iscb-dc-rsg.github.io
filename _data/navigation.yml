@@ -1,6 +1,9 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: About
+  url: /about/
+  excerpt: "About DC-RSG"
+- title: Events
+  url: /events/
+- title: Organizers
+  url: /organizers/
