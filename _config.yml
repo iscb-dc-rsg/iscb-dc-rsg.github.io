@@ -2,7 +2,7 @@
 
 title: "ISCB DC Regional Student Group (RSG)"
 description: "Homepage of the The International Society for Computational Biology DC area regional student group (DC-RSG)"
-logo: logo.png # 120x120 px default image used for Twitter summary card
+logo: logo.png
 locale: en
 url: "https://iscb-dc-rsg.github.io"
 feed:
@@ -27,7 +27,6 @@ owner:
   name: "V. Keith Hughitt"
   email: "khughitt@umd.edu"
   twitter: "KeithHughitt"
-  avatar: bio-photo.jpg # 160x160 px image for author byline
 
 include:
   - ".htaccess"

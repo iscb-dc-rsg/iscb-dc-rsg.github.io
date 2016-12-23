@@ -9,3 +9,4 @@ _asset_bundler_cache
 .bundle
 vendor
 Gemfile.lock
+_site
