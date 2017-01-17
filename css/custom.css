@@ -1,3 +1,4 @@
+/* Organizers.md */
 .organizer-image {
     width: 200px;
     height: 200px;
@@ -8,4 +9,7 @@
 }
 .float-right {
     float: right;
+}
+.blockquote > p {
+    padding-top: 60px
 }
