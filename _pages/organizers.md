@@ -13,7 +13,7 @@ permalink: /organizers/
 
 # Institutional Representative: Michael Chambers (NIH)
 
-![Michael Chambers](images/organizers/chambers.jpg)
+![Michael Chambers](images/organizers/chambers.jpg){: .organizer-image .float-left }
 
 > Born and raised in northwest Ohio, followed love out to D.C., and fell into
 > vaccine research with the National Institutes of Health. My scientific
