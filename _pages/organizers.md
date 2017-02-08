@@ -19,6 +19,14 @@ permalink: /organizers/
 
 # Secretary: Eli Draizen (NIH)
 
+![Eli Draizen](../images/organizers/draizen.jpg){: .organizer-image .float-left }
+
+> PhD Student from the Bay Area, working in the labs of Phil Bourne (NCBI/UVA)
+> and Mike Grigg (NIAID) through the BU-NIH GPP. Eli is interested in the
+> structural and evolutionary view of pathogen invasion in Apicomplexan
+> parasites (e.g. Malaria and Toxoplasmosis). When he is not doing science, you
+> can find him rock climbing or playing drums with his band Dothraki Deception.
+
 # Institutional Representative: Jonathan Goodson (UMD)
 
 # Institutional Representative: Michael Chambers (NIH)
