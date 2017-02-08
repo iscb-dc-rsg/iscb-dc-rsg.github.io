@@ -17,6 +17,10 @@ permalink: /organizers/
 
 # Vice President: Mahfuza Sharmin (UMD)
 
+![Mahfuza Sharmin](../images/organizers/sharmin.jpg){: .organizer-image }
+
+> ...
+
 # Secretary: Eli Draizen (NIH)
 
 ![Eli Draizen](../images/organizers/draizen.jpg){: .organizer-image .float-left }
