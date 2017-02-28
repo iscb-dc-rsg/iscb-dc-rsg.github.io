@@ -2,17 +2,21 @@
 
 The ISCB DC-RSG homepage makes use of the [Skinny Bones](https://mmistakes.github.io/skinny-bones-jekyll/getting-started/) Jekyll theme.
 
-To make changes to the site
+In order to make changes to the website, you will first need to install the
+[Jekyll](https://jekyllrb.com/) and [Bundler](http://bundler.io/) ruby packages
+using the `gem` command, and then use the `bundle` command to install the
+theme-specific settings:
 
-1. Install [Jekyll](https://jekyllrb.com/) and [Bundler](http://bundler.io/),
-   e.g.:
-    - `gem install --user jekyll bundler`
-3. Install skinny bones dependencies:
-    - `bundle install --path vendor/bundle`
-3. Make desired changes, e.g. to `_config.yml` or `_data/navigation.yml`
-4. run `bundle exec jekyll build` to render the site HTML.
+    gem install --user jekyll bundler
 
-If everything looks good, simply commit and push back up to the Github repo.
+Next, clone this repo and `cd` into th root directory and run:
+
+    bundle install --path vendor/bundle
+
+Now you should be all set! Whenever you want to make changes to the site, e.g.
+to `_config.yml` or `_data/navigation.yml`, simple run the command `bundle exec
+jekyll build` to re-render the markdown into HTML, verify that the changes look
+good, and commit and push them back upstream
 
 
 
