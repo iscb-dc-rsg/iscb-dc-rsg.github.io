@@ -13,3 +13,5 @@ DC metropolitan area.
 DC-RSG currently hosts 1-2 events per year including research symposia and
 workshops.
 
+Checking update in the page.
+
