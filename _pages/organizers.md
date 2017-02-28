@@ -31,6 +31,8 @@ permalink: /organizers/
 > parasites (e.g. Malaria and Toxoplasmosis). When he is not doing science, you
 > can find him rock climbing or playing drums with his band Dothraki Deception.
 
+# Treasurer: Victoria Cepeda-Espinoza (UMD)
+
 # Institutional Representative: Jonathan Goodson (UMD)
 
 # Institutional Representative: Michael Chambers (NIH)
