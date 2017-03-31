@@ -48,3 +48,37 @@ Lunch will be provided for all registered attendees. At least one of the options
 
 The workshop will take place in the Biosciences Research Building (BRB) and John S. Toll Physics buildings (PHY) at the University of Maryland, College Park campus. Registration will start at 8:30am in the physics building, outside of PHY 1412. Introduction, short research talks, and closing remarks will all take place in this location. The workshop sessions will take place in one of two locations located within several minutes walking distance (BRB 1103/PHY 1412). See the schedule section for details.
 
+Volunteer organizers will be on-hand to help direct you to each of the relevant meeting locations.
+
+
+# Metro
+
+There is a free shuttle bus service that runs between the College Park metro stop on the green line and the University of Maryland campus:
+
+Exit from the metro station, and follow the tunnel which leads under the train tracks in the rear.
+Take the stairs up and look for signs for the 104 Shuttle immediately to your right.
+Take the bus to the Regents Parking Garage stop (the terminal stop for the bus line).
+The Physics building is located across the street, just to the right of (and connected with) the Chemistry building.
+
+# Driving
+
+There are metered parking spaces throughout the campus. There nearest location is the Regents Parking Garage, which is located adjacent to the Physics building, and is a 2-3 minute walk from the Biosciences Research Building. See the UMD DOTS website for more information on parking locations and rates.
+
+# Contact
+
+If you have any questions about the meeting, you can contact one of the meeting [organizers](https://iscb-dc-rsg.github.io/organizers/)
+
+# Flyer
+
+  TBA
+  
+  
+# Acknowledgements
+
+This meeting would not have been possible without the generous support of many different individuals and organizations. We would like to thank:
+
+The Center for Bioinformatics and Computational Biology (CBCB) for supporting this meeting in all capacities, including providing meals and coffee.
+The UMD Biology Department (and in particular Gwen Warman) for providing us with a venue for the meeting and helping with various meeting logistics.
+The speakers for the workshop, without whom the meeting would be much shorter and much less interesting!
+The workshop volunteer organizers (...) who have all graciously offered their time and services to ensure that the meeting runs smoothly and is enjoyable for all attendees.
+The ISCB for their role in creating and supporting all of the various regional students groups.
