@@ -5,7 +5,7 @@ output: html_document
 ---
 
 # President: Keith Hughitt (UMD)
-#   
+
 ![Keith Hughitt](../images/organizers/hughitt.jpg){: .organizer-image .float-left }
 
 > Graduate researcher at the University of Maryland, College Park, working in
@@ -24,7 +24,8 @@ output: html_document
 
 > Computer Science PhD student at the university of Maryland, College Park, working in [Hannenhalli lab](http://www.cbcb.umd.edu/~sridhar/) and [HCBravo lab](http://www.hcbravo.org). Researcn interests range from Deep learning to Genomics. More psecifically, she is passionate about exploting the advantage of language translation and deep learning into multi-omics data to understand the regulatory mechanism across cells and diseases. Outside school, she enjoys learning foreign languages, painting, reading about human psychology and cross-cultural differences.
 
-#      
+
+#              
 # Secretary: Eli Draizen (NIH)
 
 ![Eli Draizen](../images/organizers/draizen.jpg){: .organizer-image .float-left }
@@ -32,10 +33,7 @@ output: html_document
 > PhD Student from the Bay Area, working in the labs of Phil Bourne (NCBI/UVA) and Mike Grigg (NIAID) through the BU-NIH GPP. Eli is interested in the structural and evolutionary view of pathogen invasion in Apicomplexan parasites (e.g. Malaria and Toxoplasmosis). When he is not doing science, you can find him rock climbing or playing drums with his band Dothraki Deception.
 
 
-
-
-
-
+#           
 # Treasurer: Victoria Cepeda-Espinoza (UMD)
 
 ![Victoria Cepada](../images/organizers/vicky.jpg){: .organizer-image .float-left }
@@ -43,11 +41,7 @@ output: html_document
 > Computer Science Graduate studnet from [Pop Lab](http://www.cbcb.umd.edu/~mpop/). She is intersted in developing methods for sequencing data. Her favorite past times are...
 
 
-
-
-
-
-
+#           
 # Institutional Representative: Jonathan Goodson (UMD)
 
 ![Jonathan Goodson(../images/organizers/jgoodson.jpg){: .organizer-image .float-left }
@@ -55,10 +49,7 @@ output: html_document
 > Researcher from Cell Biology and Molecular Genetics department working His expertise include transcriptomic and genomic high throughput sequencing experiments. Outside of research he enjoys....
 
 
-
-
-
-
+#               
 # Institutional Representative: Michael Chambers (NIH)
 
 ![Michael Chambers](../images/organizers/chambers.jpg){: .organizer-image .float-left }
