@@ -5,7 +5,7 @@ permalink: /events/
 
 # Upcoming events
 
-- **2017** [Summer Workshop](https://github.com/iscb-dc-rsg/iscb-dc-rsg.github.io/blob/master/_pages/workshop2017.md)
+- **2017** [Summer Workshop](https://iscb-dc-rsg.github.io/workshop2017/)
 
 # Past events
 
