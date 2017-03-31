@@ -17,9 +17,9 @@ permalink: /organizers/
 
 # Vice President: Mahfuza Sharmin (UMD)
 
-![Mahfuza Sharmin](../images/organizers/sharmin.jpg){: .organizer-image }
+![Mahfuza Sharmin](../images/organizers/sharmin.jpg){: .organizer-image .float-left }
 
-> ...
+> Computer Science PhD student at the university of Maryland, College Park, working in [Hannenhalli lab](http://www.cbcb.umd.edu/~sridhar/) and [HCBravo lab](http://www.hcbravo.org)
 
 # Secretary: Eli Draizen (NIH)
 
