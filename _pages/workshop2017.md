@@ -13,12 +13,12 @@ output: html_document
 | Times         | Session A     | Session B  |
 | ------------- |:-------------:| ----------:|
 | 09:00 - 09:30 | Welcome and introductions (Eugene Koojin) |
-| Morning 1 | (Methods)
+| Morning 1 | Methods development and Data Science
 9:35 - 10:35      | Speaker 1      |   Speaker 2 |
-| Morning 2 | (Genomics)
+| Morning 2 | Genomics and application
 10:45 - 11:45 | speaker 3      |    Speaker 4 |
 | 12:00 - 1:00 | Lunch Break                |
-| Afternoon 1 | (Metagenomics)
+| Afternoon 1 | Metagenomics and application
 1:00 - 2:00 | speaker 5      |    Speaker 6 |
 |  Panel Discussion | What it is like to be in Bioinformatics
 2:00 - 3:00 | Panels members name |
