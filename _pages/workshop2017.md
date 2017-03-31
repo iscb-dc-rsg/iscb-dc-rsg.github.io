@@ -5,7 +5,10 @@ output: html_document
 ---
 ![logo](../images/logo.jpg){: .organizer-image .float-right }
 
+<br>
 
+
+<br>
 
 
 # Schedule
