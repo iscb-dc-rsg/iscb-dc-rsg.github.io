@@ -29,8 +29,10 @@ output: html_document
 
 
 # Registration
+ * Deadline: TBD
+ * URL: TBD
 
-
+Registration is FREE, but it is required in order for us to determine how many people to accommodate for lunch. If you are not able to register by the date above, you are still welcome to come to the workshop and we will do our best to accommodate all attendees, but we cannot guarantee meals for all who do not register.
 
 # Time and Location
 
