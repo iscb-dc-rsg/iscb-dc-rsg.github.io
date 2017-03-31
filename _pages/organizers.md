@@ -15,7 +15,7 @@ output: html_document
 
 &nbsp;
 
-#              
+              
 # Vice President: Mahfuza Sharmin (UMD)
 
 ![Mahfuza Sharmin](../images/organizers/sharmin.jpg){: .organizer-image .float-left }
@@ -35,6 +35,8 @@ output: html_document
 
 &nbsp;
 
+&nbsp;
+
 
 # Treasurer: Victoria Cepeda-Espinoza (UMD)
 
@@ -44,7 +46,10 @@ output: html_document
 > Computer Science Graduate studnet from [Pop Lab](http://www.cbcb.umd.edu/~mpop/). She is intersted in developing methods for sequencing data. Her favorite past times are...
 
 
-#                                                                                        
+&nbsp;
+
+&nbsp;
+
 # Institutional Representative: Jonathan Goodson (UMD)
 
 ![Jonathan Goodson(../images/organizers/jgoodson.jpg){: .organizer-image .float-left }
