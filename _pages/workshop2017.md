@@ -7,6 +7,15 @@ output: html_document
 
 # Schedule
 
+| Times         | Session A     | Session B  |
+| ------------- |:-------------:| ----------:|
+| 09:00 - 09:30 | Welcome and introductions (Eugene Koojin) |
+| Morning 1
+09:30 - 10:30      | Speaker 1      |   Speaker 2 |
+| Morning 2
+10:45 - 11:45 | speaker 3      |    Speaker 4 |
+
+
 
 # Registration
 
