@@ -14,7 +14,6 @@ output: html_document
 &nbsp;
 
 &nbsp;
-
               
 # Vice President: Mahfuza Sharmin (UMD)
 
@@ -24,7 +23,10 @@ output: html_document
 > Computer Science PhD student at the university of Maryland, College Park, working in [Hannenhalli lab](http://www.cbcb.umd.edu/~sridhar/) and [HCBravo lab](http://www.hcbravo.org). Researcn interests range from Deep learning to Genomics. More psecifically, she is passionate about exploting the advantage of language translation and deep learning into multi-omics data to understand the regulatory mechanism across cells and diseases. Outside school, she enjoys learning foreign languages, painting, reading about human psychology and cross-cultural differences.
 
 
-#                       
+&nbsp;
+
+&nbsp;
+
 # Secretary: Eli Draizen (NIH)
 
 ![Eli Draizen](../images/organizers/draizen.jpg){: .organizer-image .float-left }
@@ -52,12 +54,15 @@ output: html_document
 
 # Institutional Representative: Jonathan Goodson (UMD)
 
-![Jonathan Goodson(../images/organizers/jgoodson.jpg){: .organizer-image .float-left }
+![Jonathan Goodson](../images/organizers/jgoodson.jpg){: .organizer-image .float-left }
 
 > Researcher from Cell Biology and Molecular Genetics department working His expertise include transcriptomic and genomic high throughput sequencing experiments. Outside of research he enjoys....
 
 
-#                                                                                  
+&nbsp;
+
+&nbsp;
+
 # Institutional Representative: Michael Chambers (NIH)
 
 ![Michael Chambers](../images/organizers/chambers.jpg){: .organizer-image .float-left }
