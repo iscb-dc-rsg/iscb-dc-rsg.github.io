@@ -15,11 +15,12 @@ permalink: /organizers/
 > reproducible research methods and efficient software engineering approaches
 > for the sciences.
 
+
 # Vice President: Mahfuza Sharmin (UMD)
 
 ![Mahfuza Sharmin](../images/organizers/sharmin.jpg){: .organizer-image .float-left }
 
-> Computer Science PhD student at the university of Maryland, College Park, working in [Hannenhalli lab](http://www.cbcb.umd.edu/~sridhar/) and [HCBravo lab](http://www.hcbravo.org)
+> Computer Science PhD student at the university of Maryland, College Park, working in [Hannenhalli lab](http://www.cbcb.umd.edu/~sridhar/) and [HCBravo lab](http://www.hcbravo.org). Researcn interests range from Deep learning to Genomics. More psecifically, she is passionate about exploting the advantage of language translation and deep learning into multi-omics data to understand the regulatory mechanism across cells and diseases. Outside of schools, she enjoys learning new languages, painting, reading about human psychology and cross-cultural differences.
 
 # Secretary: Eli Draizen (NIH)
 
