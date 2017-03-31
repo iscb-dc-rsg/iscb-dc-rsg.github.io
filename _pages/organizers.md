@@ -1,6 +1,7 @@
 ---
 title: DC-RSG Organizers
 permalink: /organizers/
+output: html_document
 ---
 
 # President: Keith Hughitt (UMD)
@@ -15,10 +16,8 @@ permalink: /organizers/
 > reproducible research methods and efficient software engineering approaches
 > for the sciences.
 
-
-
-
-
+```
+```
 
 # Vice President: Mahfuza Sharmin (UMD)
 
