@@ -1,5 +1,5 @@
 ---
-title: 2017-summer-workshop
+title: Summer Workshop 2017
 permalink: /workshop2017/
 output: html_document
 ---
