@@ -12,8 +12,12 @@ output: html_document
 > Graduate researcher at the University of Maryland, College Park, working in the lab of [Najib El-Sayed](http://www.najibelsayed.org/research.aspx). Research interests include co-expression and network analysis of dual-species transcriptomics datasets, network parameter optimization, and gene regulatory element prediction. Passionate about open and reproducible research methods and efficient software engineering approaches for the sciences.
 
 
+
+
 <dl>
+
 </dl>
+
 # Vice President: Mahfuza Sharmin (UMD)
 
 ![Mahfuza Sharmin](../images/organizers/sharmin.jpg){: .organizer-image .float-left }
