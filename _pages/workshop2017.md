@@ -40,5 +40,11 @@ output: html_document
 
 Registration is FREE, but it is required in order for us to determine how many people to accommodate for lunch. If you are not able to register by the date above, you are still welcome to come to the workshop and we will do our best to accommodate all attendees, but we cannot guarantee meals for all who do not register.
 
-# Time and Location
+# Lunch
+
+Lunch will be provided for all registered attendees. At least one of the options will be vegetarian. If you have other special dietary needs, please contact one of the organizers and we will make sure that there is something suitable provided.
+
+# Venue
+
+The workshop will take place in the Biosciences Research Building (BRB) and John S. Toll Physics buildings (PHY) at the University of Maryland, College Park campus. Registration will start at 8:30am in the physics building, outside of PHY 1412. Introduction, short research talks, and closing remarks will all take place in this location. The workshop sessions will take place in one of two locations located within several minutes walking distance (BRB 1103/PHY 1412). See the schedule section for details.
 
