@@ -5,7 +5,7 @@ output: html_document
 ---
 
 # President: Keith Hughitt (UMD)
-#
+#.   
 ![Keith Hughitt](../images/organizers/hughitt.jpg){: .organizer-image .float-left }
 
 > Graduate researcher at the University of Maryland, College Park, working in
@@ -17,9 +17,7 @@ output: html_document
 > for the sciences.
 
 
-#
-```
-```
+#.       
 # Vice President: Mahfuza Sharmin (UMD)
 
 ![Mahfuza Sharmin](../images/organizers/sharmin.jpg){: .organizer-image .float-left }
