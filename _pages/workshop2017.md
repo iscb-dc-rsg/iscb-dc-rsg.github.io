@@ -14,7 +14,7 @@ output: html_document
 
 | Times         | Session A     | Session B  |
 | ------------- |:-------------:| ----------:|
-| 09:00 - 09:30 | Welcome and introductions (Eugene Koojin) |
+| 09:00 - 09:30 | Welcome and introductions (Eugene Koonin) |
 | Morning 1 | Methods development and Data Science
 9:35 - 10:35      | Speaker 1      |   Speaker 2 |
 | Morning 2 | Genomics and application
