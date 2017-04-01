@@ -44,8 +44,7 @@ Lunch will be provided for all registered attendees. At least one of the options
 
 The workshop will take place in the Biosciences Research Building (BRB) and John S. Toll Physics buildings (PHY) at the University of Maryland, College Park campus. Registration will start at 8:30am in the physics building, outside of PHY 1412. Introduction, short research talks, and closing remarks will all take place in this location. The workshop sessions will take place in one of two locations located within several minutes walking distance (BRB 1103/PHY 1412). See the schedule section for details.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d306141.380212437!2d126.3453416664724!3d33.3711157139061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x350ce3544cc84045%3A0x66bc36d2981ebf31!2sJeju-do%2C+South+Korea!5e0!3m2!1sen!2sus!4v1473136714592" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1550.5816424233808!2d-76.94461960346305!3d38.988769605031734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x97cf5f9cc3eb592!2sThe+Biological+Sciences+Graduate+Program+(BISI)!5e0!3m2!1sen!2sus!4v1491058682249" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 Volunteer organizers will be on-hand to help direct you to each of the relevant meeting locations.
 
 
