@@ -10,6 +10,9 @@ output: html_document
 &nbsp;
 
 
+* The 2nd meeting of DC-RSG group <span style="color:red"> July 12th text</span>.
+* <span style="color:red"> The following schedule is under construction and likely be to reorganized </span>.
+
 # Schedule
 
 | Times         | Session A     | Session B  |
@@ -19,9 +22,10 @@ output: html_document
 9:35 - 10:35      | Speaker 1      |   Speaker 2 |
 | Morning 2 | Genomics and application
 10:45 - 11:45 | speaker 3      |    Speaker 4 |
-| 12:00 - 1:00 | Lunch Break                |
+| 12:00 - 1:30 | Lunch Break                |
+| 1:30 - 2:00 | Open Discussion and Job advertisement            |
 | Afternoon 1 | Metagenomics and application
-1:00 - 2:00 | speaker 5      |    Speaker 6 |
+2:00 - 3:00 | speaker 5      |    Speaker 6 |
 |  Panel Discussion | What it is like to be in Bioinformatics
 2:00 - 3:00 | Panels members name |
 | 3:00 - 3:30 | Coffee Break                |
