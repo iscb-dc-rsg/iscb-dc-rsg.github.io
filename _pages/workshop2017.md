@@ -11,7 +11,7 @@ includes:
 &nbsp;
 
 
-* The 2nd meeting of DC-RSG group <span style="color:red"> July 12th text</span>.
+* The 2nd meeting of DC-RSG group <span style="color:red"> July 12th, 2017</span>.
 * <span style="color:red"> The following schedule is under construction and likely be to reorganized </span>.
 
 # Schedule
