@@ -2,8 +2,9 @@
 title: Workshop 2017
 permalink: /workshop2017/
 output: html_document
+includes:
+      in_header: logo_tmp.html
 ---
-![logo](../images/logo.jpg){: .organizer-image .float-right }
 
 &nbsp;
 
