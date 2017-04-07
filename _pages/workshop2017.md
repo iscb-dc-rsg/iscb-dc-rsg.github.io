@@ -11,8 +11,8 @@ includes:
 &nbsp;
 
 
-* The 2nd meeting of DC-RSG group <span style="color:red"> July 12th, 2017</span>.
-* <span style="color:red"> The following schedule is under construction and likely be to reorganized </span>.
+* DC-RSG Summer 2017 : The 2nd Workshop of Bioinformatics, Genomics & Computational Biology <span style="color:red"> UMD, College Park, July 12th</span>. 
+* <span style="color:red"> The following schedule is under construction and likely be to re-organized </span>.
 
 # Schedule
 
