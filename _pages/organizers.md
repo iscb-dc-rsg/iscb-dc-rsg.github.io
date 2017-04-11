@@ -20,7 +20,7 @@ output: html_document
 ![Mahfuza Sharmin](../images/organizers/sharmin.jpg){: .organizer-image .float-left }
 
 
-> Computer Science PhD student at the university of Maryland, College Park, working in [Hannenhalli lab](http://www.cbcb.umd.edu/~sridhar/) and [HCBravo lab](http://www.hcbravo.org). She is interested in transcriptional regulation, Machine learning, Deep learning, and multi-omics data translation. Outside school, she enjoys learning foreign languages, painting, and reading about cultural diversity.
+> Computer Science PhD student at the university of Maryland, College Park, working in [Hannenhalli lab](http://www.cbcb.umd.edu/~sridhar/) and [HCBravo lab](http://www.hcbravo.org). She is interested in transcriptional regulation, Machine learning, Deep learning, and multi-omics data translation. Outside school, she enjoys learning foreign languages, painting, and reading about psychology and diversity.
 
 
 &nbsp;
