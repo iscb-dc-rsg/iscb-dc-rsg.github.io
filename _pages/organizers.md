@@ -42,7 +42,7 @@ output: html_document
 
 # Treasurer: Victoria Cepeda-Espinoza (UMD)
 
-![Victoria Cepada](../images/organizers/vick.jpg){: .organizer-image .float-left }
+![Victoria Cepeda](../images/organizers/vick.jpg){: .organizer-image .float-left }
 
 
 > Computer Science Graduate studnet from [Pop Lab](http://www.cbcb.umd.edu/~mpop/). She is intersted in developing methods for sequencing data. Her favorite past times are...
