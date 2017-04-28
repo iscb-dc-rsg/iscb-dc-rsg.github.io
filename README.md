@@ -14,7 +14,7 @@ Next, clone this repo and `cd` into th root directory and run:
     bundle install --path vendor/bundle
 
 Now you should be all set! Whenever you want to make changes to the site, e.g.
-to `_config.yml` or `_data/navigation.yml`, simple run the command `bundle exec
+to `_config.yml` or `_data/navigation.yml`, simply run the command `bundle exec
 jekyll build` to re-render the markdown into HTML, verify that the changes look
 good, and commit and push them back upstream
 
