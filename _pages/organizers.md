@@ -45,7 +45,7 @@ output: html_document
 ![Victoria Cepeda](../images/organizers/vicky.jpg){: .organizer-image .float-left }
 
 
-> Computer Science PhD studet at the University of Maryland, College Park. She is working at the [Pop Lab](http://www.cbcb.umd.edu/~mpop/) at the [Center for Bioinformatics and Computational Biology](http://www.cbcb.umd.edu/). Her current research focus is developing algorithms for assembling and comparing large, complex single genome and metagenomic assemblies. She is also interested in diversity and inclusion in STEM, specially in Latin America.
+> Computer Science PhD student at the University of Maryland, College Park. She is working at the [Pop Lab](http://www.cbcb.umd.edu/~mpop/) at the [Center for Bioinformatics and Computational Biology](http://www.cbcb.umd.edu/). Her current research focus is developing algorithms for assembling and comparing large, complex single genome and metagenomic assemblies. She is also interested in diversity and inclusion in STEM, especially in Latin America.
 
 
 
