@@ -20,7 +20,7 @@ output: html_document
 ![Mahfuza Sharmin](../images/organizers/sharmin.jpg){: .organizer-image .float-left }
 
 
-> Computer Science PhD student at the university of Maryland, College Park, working in [Hannenhalli lab](http://www.cbcb.umd.edu/~sridhar/) and [HCBravo lab](http://www.hcbravo.org). She is interested in transcriptional regulation, Machine learning, Deep learning, and multi-omics data translation. Outside school, she enjoys learning foreign languages, painting, and reading about psychology and diversity.
+> Computer Science PhD student at the University of Maryland, College Park, working in [Hannenhalli lab](http://www.cbcb.umd.edu/~sridhar/) and [HCBravo lab](http://www.hcbravo.org). She is interested in transcriptional regulation, Machine learning, Deep learning, and multi-omics data translation. Outside school, she enjoys learning foreign languages, painting, and reading about psychology and diversity.
 
 
 &nbsp;
@@ -42,10 +42,11 @@ output: html_document
 
 # Treasurer: Victoria Cepeda-Espinoza (UMD)
 
-![Victoria Cepeda](../images/organizers/vick.jpg){: .organizer-image .float-left }
+![Victoria Cepeda](../images/organizers/vicky.jpg){: .organizer-image .float-left }
 
 
-> Computer Science Graduate studnet from [Pop Lab](http://www.cbcb.umd.edu/~mpop/). She is intersted in developing methods for sequencing data. Her favorite past times are...
+> Computer Science PhD studet at the University of Maryland, College Park. She is working at the [Pop Lab](http://www.cbcb.umd.edu/~mpop/) at the [Center for Bioinformatics and Computational Biology](http://www.cbcb.umd.edu/). Her current research focus is developing algorithms for assembling and comparing large, complex single genome and metagenomic assemblies. She is also interested in diversity and inclusion in STEM, specially in Latin America.
+
 
 
 &nbsp;
