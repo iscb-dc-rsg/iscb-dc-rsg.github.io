@@ -53,6 +53,7 @@ output: html_document
 
 &nbsp;
 
+
 # Institutional Representative: Jonathan Goodson (UMD)
 
 ![Jonathan Goodson](../images/organizers/jgoodson.jpg){: .organizer-image .float-left }
