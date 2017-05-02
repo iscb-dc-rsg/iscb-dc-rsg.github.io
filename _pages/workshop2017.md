@@ -1,10 +1,7 @@
 ---
 title: Workshop 2017
 permalink: /workshop2017/
-output: 
-  html_document:
-    includes:
-      in_header: logo_tmp.html
+output: html_document
 ---
 
 &nbsp;
@@ -19,18 +16,18 @@ output:
 
 | Times         | Session A     | Session B  |
 | ------------- |:-------------:| ----------:|
-| 09:00 - 09:30 | Welcome and introductions (TBA) |
+| 08:40 - 09:00 | Welcome and introductions (Eytan Ruppin) |
+| 09:00 - 10:00 | Keynote Speech (TBA) |
+| 10:00 - 10:30 | Coffee Break                |
 | Morning 1 | Methods development and Data Science
-9:35 - 10:35      | Speaker 1      |   Speaker 2 |
+10:30 - 11:30      | Speaker 1      |   Speaker 2 |
 | Morning 2 | Genomics and application
-10:45 - 11:45 | speaker 3      |    Speaker 4 |
-| 12:00 - 1:30 | Lunch Break                |
-| 1:30 - 2:00 | Open Discussion and Job advertisement            |
+11:30 - 12:30 | speaker 3      |    Speaker 4 |
+| 12:30 - 2:30 | Lunch with Leaders from Academia and Industry             |
 | Afternoon 1 | Metagenomics and application
-2:00 - 3:00 | speaker 5      |    Speaker 6 |
-| 3:00 - 3:30 | Coffee Break                |
-| Panel Discussion | What it is like to be in Bioinformatics
-3:30 - 4:30 | Panels members name |
+2:30 - 3:30 | speaker 5      |    Speaker 6 |
+| 3:30 - 4:00 | Industry Speaker1            |
+| 4:00 - 4:30 | industry Speaker2                |
 | 4:30 - 5:00 | Closing Remarks                |
 
 
