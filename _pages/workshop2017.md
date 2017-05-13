@@ -71,7 +71,10 @@ If you have any questions about the meeting, you can contact one of the meeting 
 
   TBA
   
-  
 # Acknowledgements
+
+TBA
+
+# Sponsors
 
 TBA
