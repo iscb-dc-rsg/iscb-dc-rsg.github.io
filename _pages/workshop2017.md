@@ -79,7 +79,7 @@ TBA
 
 ![CBCB](../images/cbcb_logo_transp_blackwhite.gif "Center for Bioinformatics & Computational Biology"){:height="250px" width="250px"}
 
-![BISI](../images/umd_bisi_logo.png "The Biological Sciences Graduate Program ") 
+![BISI](../images/umd_bisi_logo.png "The Biological Sciences Graduate Program "){:height="250px" width="250px"}
 
-![ISCB](../images/iscb_sc_logo.png "International society for Computational Biology")
+![ISCB](../images/iscb_sc_logo.png "International society for Computational Biology"){:height="250px" width="250px"}
 
