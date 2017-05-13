@@ -71,12 +71,12 @@ If you have any questions about the meeting, you can contact one of the meeting 
 
   TBA
   
-# Acknowledgements
 
-TBA
 
 # Sponsors
 
-| [![CBCB](../images/cbcb_logo_transp_blackwhite.gif "Center for Bioinformatics & Computational Biology"){:height="260px" width="250px"}](http://www.cbcb.umd.edu)  | [![BISI](../images/umd_bisi_logo.png "The Biological Sciences Graduate Program "){:height="250px" width="250px"}](http://www.bisi.umd.edu) | [![ISCB](../images/iscb_sc_logo.png "International society for Computational Biology"){:height="270px" width="250px"}](https://www.iscb.org) |
+| [![CBCB](../images/cbcb_logo_transp_blackwhite.gif "Center for Bioinformatics & Computational Biology"){:height="270px" width="250px"}](http://www.cbcb.umd.edu)  | [![BISI](../images/umd_bisi_logo.png "The Biological Sciences Graduate Program "){:height="250px" width="250px"}](http://www.bisi.umd.edu) | [![ISCB](../images/iscb_sc_logo.png "International society for Computational Biology"){:height="280px" width="250px"}](https://www.iscb.org) |
 
+# Additional Acknowledgements
 
+TBA
