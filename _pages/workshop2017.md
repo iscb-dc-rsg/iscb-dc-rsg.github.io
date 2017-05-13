@@ -77,5 +77,9 @@ TBA
 
 # Sponsors
 
-![CBCB](../images/cbcb_logo_transp_blackwhite.gif "Center for Bioinformatics & Computational Biology") ![BISI](../images/umd_bisi_logo.png "The Biological Sciences Graduate Program ") ![ISCB](../images/iscb_sc_logo.png "International society for Computational Biology")
+![CBCB](../images/cbcb_logo_transp_blackwhite.gif "Center for Bioinformatics & Computational Biology") 
+
+![BISI](../images/umd_bisi_logo.png "The Biological Sciences Graduate Program ") 
+
+![ISCB](../images/iscb_sc_logo.png "International society for Computational Biology")
 
