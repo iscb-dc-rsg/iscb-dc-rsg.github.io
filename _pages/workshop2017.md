@@ -77,4 +77,5 @@ TBA
 
 # Sponsors
 
-TBA
+![cbcb](../images/cbcb_logo_transp_blackwhite.gif "title-1") ![bisi](../images/umd_bisi_logo.png "title-2")
+
