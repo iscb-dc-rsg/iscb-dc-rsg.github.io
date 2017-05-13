@@ -26,7 +26,7 @@ output: html_document
 11:30 - 12:30 | Yasaswini Iyer (Briar Woods High School)      |    Speaker 4 |
 | 12:30 - 2:30 | Lunch with Leaders from Academia and Industry             |
 | Afternoon 1 | Metagenomics and application
-2:30 - 3:30 | Mohammad rahman (graduate student, GMU)      |    Justin Wagner (graduate student, UMD) |
+2:30 - 3:30 | Mohammad Rahman (graduate student, GMU)      |    Justin Wagner (graduate student, UMD) |
 | 3:30 - 4:00 | Industry Speaker1            |
 | 4:00 - 4:30 | industry Speaker2                |
 | 4:30 - 5:00 | Closing Remarks                |
