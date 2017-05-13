@@ -17,9 +17,9 @@ output: html_document
 
 | Times         | Session A     | Session B  |
 |:-------------:|:-------------:|:----------:|
-| 08:40 - 09:00 | <td colspan=2> Welcome and introductions ([Eytan Ruppin](https://sites.umiacs.umd.edu/ruppinlab/)) |
-| 09:00 - 10:00 | <td colspan=2>Keynote Speaker ([Lucy Forrest](https://neuroscience.nih.gov/forrest/Home.aspx): Title (TBA))|
-| 10:00 - 10:30 | <td colspan=2> Coffee Break |
+| 08:40 - 09:00 | <td colspan=1> Welcome and introductions ([Eytan Ruppin](https://sites.umiacs.umd.edu/ruppinlab/)) |
+| 09:00 - 10:00 | <td colspan=1>Keynote Speaker ([Lucy Forrest](https://neuroscience.nih.gov/forrest/Home.aspx): Title (TBA))|
+| 10:00 - 10:30 | <td colspan=1> Coffee Break |
 | Morning 1 | Methods development and Data Science
 10:30 - 11:30      | Jamie Iranzo Sanz (post-doc, NIH)|   Mahfuza Sharmin (graduate student, UMD) |
 | Morning 2 | Genomics and application
