@@ -79,7 +79,7 @@ TBA
 
 |![CBCB](../images/cbcb_logo_transp_blackwhite.gif "Center for Bioinformatics & Computational Biology"){:height="260px" width="260px"}| ![BISI](../images/umd_bisi_logo.png "The Biological Sciences Graduate Program "){:height="250px" width="250px"}|![ISCB](../images/iscb_sc_logo.png "International society for Computational Biology"){:height="280px" width="280px"}|
 
-| [![CBCB](../images/cbcb_logo_transp_blackwhite.gif "Center for Bioinformatics & Computational Biology"){:height="260px" width="260px"}](http://www.cbcb.umd.edu)  | [![BISI](../images/umd_bisi_logo.png "The Biological Sciences Graduate Program "){:height="250px" width="250px"}](http://www.bisi.umd.edu) | [![ISCB](../images/iscb_sc_logo.png "International society for Computational Biology")](https://www.iscb.org){:height="260px" width="260px"} |
+| [![CBCB](../images/cbcb_logo_transp_blackwhite.gif "Center for Bioinformatics & Computational Biology"){:height="260px" width="250px"}](http://www.cbcb.umd.edu)  | [![BISI](../images/umd_bisi_logo.png "The Biological Sciences Graduate Program "){:height="250px" width="250px"}](http://www.bisi.umd.edu) | [![ISCB](../images/iscb_sc_logo.png "International society for Computational Biology")](https://www.iscb.org){:height="260px" width="250px"} |
 |:---:|:---:|:---:|
 | http://www.cbcb.umd.edu | http://www.bisi.umd.edu | https://www.iscb.org |
 
