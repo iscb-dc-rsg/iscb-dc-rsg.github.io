@@ -28,7 +28,7 @@ output: html_document
 | Afternoon 1 | Metagenomics and application
 2:30 - 3:30 | Mohammad Rahman (graduate student, GMU)      |    Justin Wagner (graduate student, UMD) |
 | 3:30 - 4:00 | Industry Speaker1            |
-| 4:00 - 4:30 | industry Speaker2                |
+| 4:00 - 4:30 | Industry Speaker2                |
 | 4:30 - 5:00 | Closing Remarks                |
 
 
