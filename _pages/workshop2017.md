@@ -14,9 +14,9 @@ output: html_document
 
 # Schedule
 
-|:---:|:---:|:---:|
+
 | Times         | Session A     | Session B  |
-| ------------- |:-------------:| ----------:|
+|:-------------:|:-------------:|:----------:|
 | 08:40 - 09:00 | <td colspan=2> Welcome and introductions ([Eytan Ruppin](https://sites.umiacs.umd.edu/ruppinlab/)) |
 | 09:00 - 10:00 | <td colspan=2>Keynote Speaker ([Lucy Forrest](https://neuroscience.nih.gov/forrest/Home.aspx): Title (TBA))|
 | 10:00 - 10:30 | <td colspan=2> Coffee Break |
