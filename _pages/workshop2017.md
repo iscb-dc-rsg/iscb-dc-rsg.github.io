@@ -17,7 +17,7 @@ output: html_document
 
 | Times         | Session A     | Session B  |
 |:-------------:|:-------------:|:----------:|
-| 08:40 - 09:00 | <td colspan=2>Welcome and introductions ([Eytan Ruppin](https://sites.umiacs.umd.edu/ruppinlab/)) </td> |
+| 08:40 - 09:00 <td colspan=1>Welcome and introductions ([Eytan Ruppin](https://sites.umiacs.umd.edu/ruppinlab/)) </td> |
 | 09:00 - 10:00 | Keynote Speaker ([Lucy Forrest](https://neuroscience.nih.gov/forrest/Home.aspx): Title (TBA))|
 | 10:00 - 10:30 | Coffee Break |
 | Morning 1 | Methods development and Data Science
