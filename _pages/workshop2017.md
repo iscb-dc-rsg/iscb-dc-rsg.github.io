@@ -20,12 +20,13 @@ output: html_document
 | 09:00 - 10:00 | Keynote Speaker ([Lucy Forrest](https://neuroscience.nih.gov/forrest/Home.aspx): Title (TBA))|
 | 10:00 - 10:30 | Coffee Break                |
 | Morning 1 | Methods development and Data Science
-10:30 - 11:30      | Speaker 1      |   Speaker 2 |
+10:30 - 11:30      | Jamie Iranzo Sanz (post-doc, NIH)
+      |   Mahfuza Sharmin (graduate student, UMD) |
 | Morning 2 | Genomics and application
-11:30 - 12:30 | speaker 3      |    Speaker 4 |
+11:30 - 12:30 | Yasaswini Iyer (Briar Woods High School)      |    Speaker 4 |
 | 12:30 - 2:30 | Lunch with Leaders from Academia and Industry             |
 | Afternoon 1 | Metagenomics and application
-2:30 - 3:30 | speaker 5      |    Speaker 6 |
+2:30 - 3:30 | Mohammad rahman (graduate student, GMU)      |    Justin Wagner (graduate student, UMD) |
 | 3:30 - 4:00 | Industry Speaker1            |
 | 4:00 - 4:30 | industry Speaker2                |
 | 4:30 - 5:00 | Closing Remarks                |
