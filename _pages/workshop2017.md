@@ -18,10 +18,9 @@ output: html_document
 | ------------- |:-------------:| ----------:|
 | 08:40 - 09:00 | Welcome and introductions (Eytan Ruppin) |
 | 09:00 - 10:00 | Keynote Speaker ([Lucy Forrest](https://neuroscience.nih.gov/forrest/Home.aspx): Title (TBA))|
-| 10:00 - 10:30 | Coffee Break                |
+| 10:00 - 10:30 | Coffee Break ||
 | Morning 1 | Methods development and Data Science
-10:30 - 11:30      | Jamie Iranzo Sanz (post-doc, NIH)
-      |   Mahfuza Sharmin (graduate student, UMD) |
+10:30 - 11:30      | Jamie Iranzo Sanz (post-doc, NIH)|   Mahfuza Sharmin (graduate student, UMD) |
 | Morning 2 | Genomics and application
 11:30 - 12:30 | Yasaswini Iyer (Briar Woods High School)      |    Speaker 4 |
 | 12:30 - 2:30 | Lunch with Leaders from Academia and Industry             |
