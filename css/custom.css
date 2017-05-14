@@ -13,3 +13,13 @@
 .blockquote > p {
     padding-top: 60px
 }
+
+/* Schedule table */
+#schedule-table table {
+    border-color: grey;
+}
+#schedule-table tbody {
+    border-top: 2px solid #557398;
+    border-bottom: 2px solid #557398;
+    background-color: #EBEFF4;
+}

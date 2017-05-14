@@ -14,42 +14,90 @@ output: html_document
 
 # Schedule
 
-
-| Times         | Session A     | Session B  |
-|:-------------:|:-------------:|:----------:|
-| 08:40 - 09:00 | Welcome and introductions ([Eytan Ruppin](https://sites.umiacs.umd.edu/ruppinlab/)) |
-| 09:00 - 10:00 | Keynote Speaker ([Lucy Forrest](https://neuroscience.nih.gov/forrest/Home.aspx): Title (TBA))|
-| 10:00 - 10:30 | Coffee Break |
-| Morning 1 | Methods development and Data Science
-10:30 - 11:30      | Jamie Iranzo Sanz (post-doc, NIH)|   Mahfuza Sharmin (graduate student, UMD) |
-| Morning 2 | Genomics and application
-11:30 - 12:30 | Yasaswini Iyer (Briar Woods High School)      |    Speaker 4 |
-| 12:30 - 2:30 | Lunch with Leaders from Academia and Industry             |
-| Afternoon 1 | Metagenomics and application
-2:30 - 3:30 | Mohammad Rahman (graduate student, GMU)      |    Justin Wagner (graduate student, UMD) |
-| 3:30 - 4:00 | Industry Speaker1            |
-| 4:00 - 4:30 | Industry Speaker2                |
-| 4:30 - 5:00 | Closing Remarks                |
-
-
+<table id='schedule-table'>
+  <thead>
+    <tr>
+      <th>Times</th>
+      <th>Session A</th>
+      <th>Session B</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>08:40 - 09:00</td>
+      <td colspan="2" align="center"><strong>Welcome and introductions (<a href="https://sites.umiacs.umd.edu/ruppinlab/">Eytan Ruppin</a>)</strong></td>
+    </tr>
+    <tr>
+      <td>09:00 - 10:00</td>
+      <td colspan="2" align="center">Keynote Speaker (<a href="https://neuroscience.nih.gov/forrest/Home.aspx">Lucy Forrest</a>: Title (TBA))</td>
+    </tr>
+    <tr>
+      <td>10:00 - 10:30</td>
+      <td colspan="2" align="center"><strong>Coffee Break</strong></td>
+    </tr>
+    <tr>
+      <td>10:30 - 11:30</td>
+      <td>Jamie Iranzo Sanz (post-doc, NIH)</td>
+      <td>Mahfuza Sharmin (graduate student, UMD)</td>
+    </tr>
+    <tr>
+      <td>11:30 - 12:30</td>
+      <td>Yasaswini Iyer (Briar Woods High School)</td>
+      <td>Speaker 4</td>
+    </tr>
+    <tr>
+      <td>12:30 - 2:30</td>
+      <td colspan="2" align="center"><strong>Lunch with Leaders from Academia and Industry</strong></td>
+    </tr>
+    <tr>
+      <td>2:30 - 3:30</td>
+      <td>Mohammad Rahman (graduate student, GMU)</td>
+      <td>Justin Wagner (graduate student, UMD)</td>
+    </tr>
+    <tr>
+      <td>3:30 - 4:00</td>
+      <td colspan="2" align="center">Industry Speaker 1</td>
+    </tr>
+    <tr>
+      <td>4:00 - 4:30</td>
+      <td colspan="2" align="center">Industry Speaker 2</td>
+    </tr>
+    <tr>
+      <td>4:30 - 5:00</td>
+      <td colspan="2" align="center"><strong>Closing Remarks</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 # Registration
  * Deadline: TBD
  * URL: TBA
 
-Registration is FREE, but it is required in order for us to determine how many people to accommodate for lunch. If you are not able to register by the date above, you are still welcome to come to the workshop and we will do our best to accommodate all attendees, but we cannot guarantee meals for all who do not register.
+Registration is FREE, but it is required in order for us to determine how many
+people to accommodate for lunch. If you are not able to register by the date
+above, you are still welcome to come to the workshop and we will do our best to
+accommodate all attendees, but we cannot guarantee meals for all who do not
+register.
 
 # Lunch
 
-Lunch will be provided for all registered attendees. At least one of the options will be vegetarian. If you have other special dietary needs, please contact one of the organizers and we will make sure that there is something suitable provided.
+Lunch will be provided for all registered attendees. At least one of the
+options will be vegetarian. If you have other special dietary needs, please
+contact one of the organizers and we will make sure that there is something
+suitable provided.
 
 # Venue
 
-The workshop will take place in the Biosciences Research Building (BRB) and John S. Toll Physics buildings (PHY) at the University of Maryland, College Park campus. Registration will start at 8:30am in the physics building, outside of PHY 1412. Introduction, short research talks, and closing remarks will all take place in this location. The workshop sessions will take place in one of two locations located within several minutes walking distance (BRB 1103/PHY 1412). See the schedule section for details.
+The workshop will take place in the Biosciences Research Building (BRB) and
+John S. Toll Physics buildings (PHY) at the University of Maryland, College
+Park campus. Registration will start at 8:30am in the physics building, outside
+of PHY 1412. Introduction, short research talks, and closing remarks will all
+take place in this location. The workshop sessions will take place in one of
+two locations located within several minutes walking distance (BRB 1103/PHY
+1412). See the schedule section for details.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1550.5816424233808!2d-76.94461960346305!3d38.988769605031734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x97cf5f9cc3eb592!2sThe+Biological+Sciences+Graduate+Program+(BISI)!5e0!3m2!1sen!2sus!4v1491058682249" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 Volunteer organizers will be on-hand to help direct you to each of the relevant meeting locations.
-
 
 # Metro
 
