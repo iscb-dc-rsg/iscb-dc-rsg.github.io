@@ -2,9 +2,9 @@
 title: Workshop 2017
 permalink: /workshop2017/
 output: html_document
+custom_css: workshop
 ---
 
-<div style='width:80%; margin: 0 auto;'>
 &nbsp;
 
 ![DC-RSG Summer 2017 Workshop Banner](/images/workshop-2017/iscb-dc-rsg_summer_2017_workshop_banner.png)
@@ -129,5 +129,3 @@ If you have any questions about the meeting, you can contact one of the meeting 
 # Additional Acknowledgements
 
 TBA
-
-</div>

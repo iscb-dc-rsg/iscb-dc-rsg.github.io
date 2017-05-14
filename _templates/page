@@ -10,3 +10,9 @@ image:
   thumb:
 ads: false  
 ---
+
+{% if page.custom_css %}
+  {% for stylesheet in page.custom_css %}
+  <link rel="stylesheet" href="/css/workshop.css" media="screen" type="text/css">
+  {% endfor %}
+{% endif %}

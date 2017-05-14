@@ -17,6 +17,8 @@
 /* Schedule table */
 #schedule-table table {
     border-color: grey;
+    width: 80%;
+    margin: 0 auto;
 }
 #schedule-table tbody {
     border-top: 2px solid #557398;
