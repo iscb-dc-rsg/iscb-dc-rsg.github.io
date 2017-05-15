@@ -113,7 +113,8 @@ talks, and closing remarks will all take place in this location. The workshop
 sessions will take place in one of two rooms located in the same building (PHY
 1412/PHY 1204). See the schedule section for details.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1550.5816424233808!2d-76.94461960346305!3d38.988769605031734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x97cf5f9cc3eb592!2sThe+Biological+Sciences+Graduate+Program+(BISI)!5e0!3m2!1sen!2sus!4v1491058682249" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1096.4249912002817!2d-76.94100036343907!3d38.98888599853324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c6a2b3f9d929%3A0x36688149862d4620!2sDepartment+of+Physics!5e0!3m2!1sen!2sus!4v1494852613808" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 Volunteer organizers will be on-hand to help direct you to each of the relevant meeting locations.
 
 # Metro
