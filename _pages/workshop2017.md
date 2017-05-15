@@ -7,12 +7,30 @@ custom_css: workshop
 
 &nbsp;
 
-![DC-RSG Summer 2017 Workshop Banner](/images/workshop-2017/iscb-dc-rsg_summer_2017_workshop_banner.png){:width="80%"}
+![DC-RSG Summer 2017 Workshop Banner](/images/workshop-2017/iscb-dc-rsg_summer_2017_workshop_banner.png){:width="100%"}
 
-* DC-RSG Summer 2017 : The 2nd Workshop of Bioinformatics, Genomics & Computational Biology <span style="color:red"> UMD, College Park, July 12th</span>. 
-* <span style="color:red"> The following schedule is under construction and likely be to re-organized </span>.
+Welcome to the homepage for the [ISCB](http://www.iscb.org/) Washington DC
+metropolitan area regional student group ([RSG](http://rsg.iscbsc.org/)) 2017
+summer workshop!
+
+On July 12, 2017, we will be hosting a free one-day workshop series with
+hands-on / open-laptop tutorials focused on various topics in bioinformatics,
+computational biology and genomics. The workshop is student-driven, with
+primarily graduate students and post-docs leading the various discussions, but
+is open to anyone interested: students, post-docs, faculty, staff scientists,
+etc.
 
 # Schedule
+
+<span style="color:red">NOTE: The following schedule is incomplete and is
+likely to change in the coming weeks.</span>
+
+Workshop talks have been divided into three sessions throughout the day:
+Morning I, Morning II, and Afternoon I. During each session, participants can
+choose from one of two talks to attend.
+
+The workshops will take place in one of two locations: BRB 1412 (Session A) and
+PHY 1204 (Session B).
 
 <table id='schedule-table'>
   <thead>
@@ -81,20 +99,19 @@ register.
 
 # Lunch
 
-Lunch will be provided for all registered attendees. At least one of the
-options will be vegetarian. If you have other special dietary needs, please
+Lunch will be provided for all registered attendees. Vegetarian and vegan
+options will be provided. If you have other special dietary needs, please
 contact one of the organizers and we will make sure that there is something
 suitable provided.
 
 # Venue
 
-The workshop will take place in the Biosciences Research Building (BRB) and
-John S. Toll Physics buildings (PHY) at the University of Maryland, College
-Park campus. Registration will start at 8:30am in the physics building, outside
-of PHY 1412. Introduction, short research talks, and closing remarks will all
-take place in this location. The workshop sessions will take place in one of
-two locations located within several minutes walking distance (BRB 1103/PHY
-1412). See the schedule section for details.
+The workshop will take place in the John S. Toll Physics buildings (PHY) at the
+University of Maryland, College Park campus. Registration will start at 8:30am
+in the physics building, just outside of PHY 1412. Introduction, short research
+talks, and closing remarks will all take place in this location. The workshop
+sessions will take place in one of two rooms located in the same building (PHY
+1412/PHY 1204). See the schedule section for details.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1550.5816424233808!2d-76.94461960346305!3d38.988769605031734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x97cf5f9cc3eb592!2sThe+Biological+Sciences+Graduate+Program+(BISI)!5e0!3m2!1sen!2sus!4v1491058682249" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 Volunteer organizers will be on-hand to help direct you to each of the relevant meeting locations.
@@ -110,7 +127,11 @@ There is a [free shuttle bus service](http://www.dots.umd.edu/schedules.html) th
 
 # Driving
 
-There are metered parking spaces throughout the campus. There nearest location is the [Regents Parking Garage](https://goo.gl/maps/4ySBbiKtm7n), which is located adjacent to the Physics building, and is a 2-3 minute walk from the Biosciences Research Building. See the [UMD DOTS website](http://www.transportation.umd.edu/maps&apps.html) for more information on parking locations and rates.
+<!-- TODO: Add nearest parking location -->
+
+There are metered parking spaces throughout the campus. See the [UMD DOTS
+website](http://www.transportation.umd.edu/maps&apps.html) for more information
+on parking locations and rates.
 
 # Contact
 
@@ -119,8 +140,6 @@ If you have any questions about the meeting, you can contact one of the meeting 
 # Flyer
 
   TBA
-  
-
 
 # Sponsors
 
