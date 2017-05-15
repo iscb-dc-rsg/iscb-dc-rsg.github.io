@@ -113,16 +113,22 @@ talks, and closing remarks will all take place in this location. The workshop
 sessions will take place in one of two rooms located in the same building (PHY
 1412/PHY 1204). See the schedule section for details.
 
+**PHY 1412**
+**John S. Toll Physics Bldg, College Park, MD 20740**
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1096.4249912002817!2d-76.94100036343907!3d38.98888599853324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c6a2b3f9d929%3A0x36688149862d4620!2sDepartment+of+Physics!5e0!3m2!1sen!2sus!4v1494852613808" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 Volunteer organizers will be on-hand to help direct you to each of the relevant meeting locations.
 
 # Metro
 
-There is a [free shuttle bus service](http://www.dots.umd.edu/schedules.html) that runs between the [College Park metro](http://www.wmata.com/rail/station_detail.cfm?station_id=79) stop on the green line and the University of Maryland campus:
+There is a [free shuttle bus service](http://www.dots.umd.edu/schedules.html)
+that runs between the [College Park
+metro](http://www.wmata.com/rail/station_detail.cfm?station_id=79) stop on the
+green line and the University of Maryland campus:
 
 * Exit from the metro station, and follow the tunnel which leads under the train tracks in the rear.
-* Take the stairs up and look for signs for the 104 Shuttle immediately to your right.
+* Take the stairs up and look for signs for the **104 Shuttle** immediately to your right.
 * Take the bus to the Regents Parking Garage stop (the terminal stop for the bus line).
 * The Physics building is located across the street, just to the right of (and connected with) the Chemistry building.
 
@@ -146,6 +152,3 @@ If you have any questions about the meeting, you can contact one of the meeting 
 
 | [![CBCB](../images/cbcb_logo_transp_blackwhite.gif "Center for Bioinformatics & Computational Biology"){:height="270px" width="250px"}](http://www.cbcb.umd.edu)  | [![BISI](../images/umd_bisi_logo.png "The Biological Sciences Graduate Program "){:height="250px" width="250px"}](http://www.bisi.umd.edu) | [![ISCB](../images/iscb_sc_logo.png "International society for Computational Biology"){:height="280px" width="250px"}](https://www.iscb.org) |
 
-# Additional Acknowledgements
-
-TBA
