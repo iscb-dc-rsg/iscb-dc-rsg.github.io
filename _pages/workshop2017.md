@@ -56,7 +56,7 @@ PHY 1204 (Session B).
     <tr>
       <td>10:30 - 11:30</td>
       <td>Jamie Iranzo Sanz (post-doc, NIH)</td>
-      <td>Mahfuza Sharmin (graduate student, UMD)</td>
+      <td>Speaker 2</td>
     </tr>
     <tr>
       <td>11:30 - 12:30</td>
