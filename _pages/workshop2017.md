@@ -55,12 +55,12 @@ PHY 1204 (Session B).
     </tr>
     <tr>
       <td>10:30 - 11:30</td>
-      <td>Jamie Iranzo Sanz (post-doc, NIH)</td>
+      <td>TBD (Jamie Iranzo Sanz)</td>
       <td>Speaker 2</td>
     </tr>
     <tr>
       <td>11:30 - 12:30</td>
-      <td>Yasaswini Iyer (Briar Woods High School)</td>
+      <td>TBD (Yasaswini Iyer)</td>
       <td>Speaker 4</td>
     </tr>
     <tr>
@@ -69,8 +69,8 @@ PHY 1204 (Session B).
     </tr>
     <tr>
       <td>2:30 - 3:30</td>
-      <td>Mohammad Rahman (graduate student, GMU)</td>
-      <td>Justin Wagner (graduate student, UMD)</td>
+      <td>Applications of Multiple Instance Learning (MIL) and Hashing in Phenotype Prediction from Metagenome Sequences (Mohammad Rahman)</td>
+      <td>TBD (Justin Wagner (graduate student, UMD)</td>
     </tr>
     <tr>
       <td>3:30 - 4:00</td>
