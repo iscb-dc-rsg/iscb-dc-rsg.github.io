@@ -55,12 +55,12 @@ PHY 1204 (Session B).
     </tr>
     <tr>
       <td>10:30 - 11:30</td>
-      <td>TBD (Jamie Iranzo Sanz)</td>
+      <td>TBD (Jamie Iranzo Sanz, NIH)</td>
       <td>Speaker 2</td>
     </tr>
     <tr>
       <td>11:30 - 12:30</td>
-      <td>TBD (Yasaswini Iyer)</td>
+      <td>Networks inside Human Cells: Using Bioinformatics Towards Unraveling Cancer (Yasaswini Iyer, Briar Woods High School)</td>
       <td>Speaker 4</td>
     </tr>
     <tr>
@@ -69,16 +69,12 @@ PHY 1204 (Session B).
     </tr>
     <tr>
       <td>2:30 - 3:30</td>
-      <td>Applications of Multiple Instance Learning (MIL) and Hashing in Phenotype Prediction from Metagenome Sequences (Mohammad Rahman)</td>
-      <td>TBD (Justin Wagner (graduate student, UMD)</td>
+      <td>Applications of Multiple Instance Learning (MIL) and Hashing in Phenotype Prediction from Metagenome Sequences (Mohammad Rahman, GMU)</td>
+      <td>TBD (Justin Wagner, UMD)</td>
     </tr>
     <tr>
-      <td>3:30 - 4:00</td>
-      <td colspan="2" align="center">Industry Speaker 1</td>
-    </tr>
-    <tr>
-      <td>4:00 - 4:30</td>
-      <td colspan="2" align="center">Industry Speaker 2</td>
+      <td>3:30 - 4:30</td>
+      <td colspan="2" align="center"><strong>Industry Speaker: Andrey Tovchigrechko (MedImmune)</strong><br /></td>
     </tr>
     <tr>
       <td>4:30 - 5:00</td>
