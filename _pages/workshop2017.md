@@ -61,7 +61,7 @@ PHY 1204 (Session B).
     <tr>
       <td>11:30 - 12:30</td>
       <td>Networks inside Human Cells: Using Bioinformatics Towards Unraveling Cancer (Yasaswini Iyer, Briar Woods High School)</td>
-      <td>Speaker 4</td>
+      <td>TBD (Nidhi Shah, UMD)</td>
     </tr>
     <tr>
       <td>12:30 - 2:30</td>
