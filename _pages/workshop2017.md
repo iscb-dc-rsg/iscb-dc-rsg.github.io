@@ -136,6 +136,16 @@ There are metered parking spaces throughout the campus. See the [UMD DOTS
 website](http://www.transportation.umd.edu/maps&apps.html) for more information
 on parking locations and rates.
 
+Due to construction planned for the summer, the Regent Parking garage that was
+suggested for last year's workshop will be unavailable.
+
+The two recommended visitor parking lots are:
+
+- [Union Lane Garage](https://www.admissions.umd.edu/visit/unionlanegarage.php) 
+- [XFINITY Visitor Lot (9c)](http://www.transportation.umd.edu/parking/maps/map_color.pdf)
+
+Each lot is about a 10 minute walk from the workshop venue.
+
 # Contact
 
 If you have any questions about the meeting, you can contact one of the meeting [organizers](https://iscb-dc-rsg.github.io/organizers/).
