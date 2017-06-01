@@ -65,7 +65,16 @@ PHY 1204 (Session B).
     </tr>
     <tr>
       <td>12:30 - 2:30</td>
-      <td colspan="2" align="center"><strong>Lunch with Leaders from Academia and Industry</strong></td>
+      <td colspan="2" align="center">
+        <strong>Lunch with Leaders from Academia and Industry</strong><br />
+        <ul style='columns: 2; -webkit-columns: 2; -moz-columns: 2;'>
+            <li>Ben Busby (NIH)</li>
+            <li>Liliana D. Florea (JHU)</li>
+            <li>Lucy Forest (NIH)</li>
+            <li>Eytan Rupin (UMD)</li>
+            <li>Andrey Tovchigrechko (MedImmune)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>2:30 - 3:30</td>
