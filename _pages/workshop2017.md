@@ -47,7 +47,7 @@ PHY 1204 (Session B).
       <td>09:00 - 10:00</td>
       <td colspan="2" align="center" valign="center"><img src="../images/forrest_keynote_speaker.png" alt="" border='3' height='100' width='100' /> 
       <br />
-      Keynote Speaker (<a href="https://neuroscience.nih.gov/forrest/Home.aspx">Lucy Forrest</a>: Title (TBA))
+      <strong>Keynote Speaker (<a href="https://neuroscience.nih.gov/forrest/Home.aspx">Lucy Forrest</a></strong>: Title (TBA))
       </td>
     </tr>
     <tr>
