@@ -72,7 +72,7 @@ PHY 1204 (Session B).
       <td>12:30 - 2:30</td>
       <td colspan="2" align="center">
         <strong>Lunch with Leaders from Academia and Industry</strong><br />
-        <ul style='columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style: none;'>
+        <ul style='columns: 1; -webkit-columns: 1; -moz-columns: 1; list-style: none;'>
             <li>Ben Busby (NIH)</li>
             <li>Liliana D. Florea (JHU)</li>
             <li>Lucy Forest (NIH)</li>
