@@ -60,13 +60,13 @@ PHY 1204 (Session B).
     </tr>
     <tr>
       <td>10:30 - 11:30</td>
-      <td>Using Genetics to Unravel Cryptic Genetic Recombination and the Clonal Theory in Toxoplasma (Jamie Iranzo Sanz, NIH)</td>
+      <td>TBA (Jamie Iranzo Sanz, NIH)</td>
       <td>Metagenomic taxon identification: challenges and future directions (Nidhi Shah, UMD)</td>
     </tr>
     <tr>
       <td>11:30 - 12:30</td>
       <td>Networks inside Human Cells: Using Bioinformatics Towards Unraveling Cancer (Yasaswini Iyer, Briar Woods High School)</td>
-      <td>TBD(Andrea Kennard, JHU)</td>
+      <td>Using Genetics to Unravel Cryptic Genetic Recombination and the Clonal Theory in Toxoplasma(Andrea Kennard, JHU)</td>
     </tr>
     <tr>
       <td>12:30 - 2:30</td>
