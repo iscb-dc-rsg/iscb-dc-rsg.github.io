@@ -73,11 +73,11 @@ PHY 1204 (Session B).
       <td colspan="2" align="center">
         <strong>Lunch with Leaders from Academia and Industry</strong><br />
         <ul style='columns: 1; -webkit-columns: 1; -moz-columns: 1; list-style: none;'>
-            <li>Ben Busby (NIH)</li>
-            <li>Liliana D. Florea (JHU)</li>
-            <li>Lucy Forest (NIH)</li>
-            <li>Eytan Rupin (UMD)</li>
-            <li>Andrey Tovchigrechko (MedImmune)</li>
+            <li>Ben Busby (NIH) [Building successful collaborations bridging computation and experiment]</li>
+            <li>Liliana D. Florea (JHU) [A scientific career in the academia vs. high-tech/bio-tech]</li>
+            <li>Lucy Forest (NIH) [Topic: TBA]</li>
+            <li>Eytan Rupin (UMD) [Topic: TBA]</li>
+            <li>Andrey Tovchigrechko (MedImmune) [Topic: TBA]</li>
         </ul>
       </td>
     </tr>
