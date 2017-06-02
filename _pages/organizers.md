@@ -59,7 +59,6 @@ output: html_document
 
 &nbsp;
 
-&nbsp;
 
 # Institutional Representative: Michael Chambers (NIH)
 
