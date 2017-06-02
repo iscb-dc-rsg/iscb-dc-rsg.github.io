@@ -5,9 +5,7 @@ output: html_document
 custom_css: workshop
 ---
 
-&nbsp;
-
-![DC-RSG Summer 2017 Workshop Banner](/images/workshop-2017/iscb-dc-rsg_summer_2017_workshop_banner.png){:width="100%"}
+<img src='/images/workshop-2017/iscb-dc-rsg_summer_2017_workshop_banner.png' alt='DC-RSG Summer 2017 Workshop Banner' style='width:100%; margin-top: -70px;' />
 
 Welcome to the homepage for the [ISCB](http://www.iscb.org/) Washington DC
 metropolitan area regional student group ([RSG](http://rsg.iscbsc.org/)) 2017
