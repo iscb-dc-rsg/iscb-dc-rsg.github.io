@@ -41,11 +41,15 @@ PHY 1204 (Session B).
   <tbody>
     <tr>
       <td>08:40 - 09:00</td>
-      <td colspan="2" align="center"><strong>Welcome and introductions (<a href="https://sites.umiacs.umd.edu/ruppinlab/">Eytan Ruppin</a>)</strong></td>
+      <td colspan="2" align="center" valign="center">
+      <img src="../images/ruppin_0.jpg" alt="" border='3' height='100' width='100' /> 
+      <br />
+      <strong>Welcome and Introductions (<a href="https://sites.umiacs.umd.edu/ruppinlab/">Eytan Ruppin</a>)</strong></td>
     </tr>
     <tr>
       <td>09:00 - 10:00</td>
-      <td colspan="2" align="center" valign="center"><img src="../images/forrest_keynote_speaker.png" alt="" border='3' height='100' width='100' /> 
+      <td colspan="2" align="center" valign="center">
+      <img src="../images/forrest_keynote_speaker.png" alt="" border='3' height='100' width='100' /> 
       <br />
       <strong>Keynote Speaker (<a href="https://neuroscience.nih.gov/forrest/Home.aspx">Lucy Forrest</a></strong>: Title (TBA))
       </td>
