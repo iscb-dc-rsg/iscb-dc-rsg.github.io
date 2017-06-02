@@ -66,16 +66,16 @@ PHY 1204 (Session B).
     <tr>
       <td>11:30 - 12:30</td>
       <td>Networks inside Human Cells: Using Bioinformatics Towards Unraveling Cancer (Yasaswini Iyer, Briar Woods High School)</td>
-      <td>Using Genetics to Unravel Cryptic Genetic Recombination and the Clonal Theory in Toxoplasma(Andrea Kennard, JHU)</td>
+      <td>Using Genetics to Unravel Cryptic Genetic Recombination and the Clonal Theory in Toxoplasma (Andrea Kennard, JHU)</td>
     </tr>
     <tr>
       <td>12:30 - 2:30</td>
       <td colspan="2" align="center">
         <strong>Lunch with Leaders from Academia and Industry</strong><br />
         <ul style='columns: 1; -webkit-columns: 1; -moz-columns: 1; list-style: none;'>
-            <li>Ben Busby (NIH) [Building successful collaborations bridging computation and experiment]</li>
+            <li>Ben Busby (NIH) [Topic: TBA]</li>
             <li>Liliana D. Florea (JHU) [A scientific career in the academia vs. high-tech/bio-tech]</li>
-            <li>Lucy Forest (NIH) [Topic: TBA]</li>
+            <li>Lucy Forest (NIH) [Building successful collaborations bridging computation and experiment]</li>
             <li>Eytan Rupin (UMD) [Topic: TBA]</li>
             <li>Andrey Tovchigrechko (MedImmune) [Topic: TBA]</li>
         </ul>
