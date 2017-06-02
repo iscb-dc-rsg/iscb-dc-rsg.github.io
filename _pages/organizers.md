@@ -53,7 +53,7 @@ output: html_document
 ![Jonathan Goodson](../images/organizers/jgoodson.jpg){: .organizer-image .float-left }
 
 
-> Researcher from Cell Biology and Molecular Genetics department. His expertise include transcriptomic and genomic high throughput sequencing experiments.
+> PhD student working with Wade Winkler at the University of Maryland. Jonathan uses a blend of genetics/molecular biology and bioinformatics to discover and better understand novel gene regulatory mechanisms in prokaryotes. Jonathan spends a most of his time outside of research outside playing with his incredibly cute doggo.
 
 &nbsp;
 
