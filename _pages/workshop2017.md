@@ -60,7 +60,7 @@ PHY 1204 (Session B).
     </tr>
     <tr>
       <td>10:30 - 11:30</td>
-      <td>TBD (Jamie Iranzo Sanz, NIH)</td>
+      <td>Using Genetics to Unravel Cryptic Genetic Recombination and the Clonal Theory in Toxoplasma (Jamie Iranzo Sanz, NIH)</td>
       <td>Metagenomic taxon identification: challenges and future directions (Nidhi Shah, UMD)</td>
     </tr>
     <tr>
