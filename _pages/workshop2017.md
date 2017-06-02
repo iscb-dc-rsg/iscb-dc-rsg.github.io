@@ -54,7 +54,7 @@ PHY 1204 (Session B).
     <tr>
       <td>10:30 - 11:30</td>
       <td>TBD (Jamie Iranzo Sanz, NIH)</td>
-      <td>TBD (Nidhi Shah, UMD)</td>
+      <td>Metagenomic taxon identification: challenges and future directions (Nidhi Shah, UMD)</td>
     </tr>
     <tr>
       <td>11:30 - 12:30</td>
