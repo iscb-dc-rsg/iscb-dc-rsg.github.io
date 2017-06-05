@@ -88,7 +88,11 @@ PHY 1204 (Session B).
     </tr>
     <tr>
       <td>3:30 - 4:30</td>
-      <td colspan="2" align="center"><strong>Industry Speaker: Andrey Tovchigrechko (MedImmune)</strong><br /></td>
+      <td colspan="2" align="center">
+          <img src="../images/tovchigrechko_industry_speaker.jpg" alt="Andrey Tovchigrechko" border='3' height='100' width='100' /><br />
+          <strong>Industry Speaker: Andrey Tovchigrechko (MedImmune)</strong><br />
+          Microbiome analysis pipeline for reproducible research: design and applications
+      </td>
     </tr>
     <tr>
       <td>4:30 - 5:00</td>
