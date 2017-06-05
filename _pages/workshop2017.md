@@ -84,7 +84,7 @@ PHY 1204 (Session B).
     <tr>
       <td>2:30 - 3:30</td>
       <td>Applications of Multiple Instance Learning (MIL) and Hashing in Phenotype Prediction from Metagenome Sequences (Mohammad Rahman, GMU)</td>
-      <td>TBD (Justin Wagner, UMD)</td>
+      <td>Microbiome Analysis using Interactive Visualization (Justin Wagner, UMD)</td>
     </tr>
     <tr>
       <td>3:30 - 4:30</td>
