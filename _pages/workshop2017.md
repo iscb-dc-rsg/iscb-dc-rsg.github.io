@@ -71,18 +71,18 @@ PHY 1204 (Session B).
       <td colspan="2" align="center">
         <strong>Lunch with Leaders from Academia and Industry</strong><br />
         <ul style='columns: 1; -webkit-columns: 1; -moz-columns: 1; list-style: none;'>
-            <li>Ben Busby (NIH) [Topic: TBA]</li>
-            <li>Liliana D. Florea (JHU) [A scientific career in the academia vs. high-tech/bio-tech]</li>
-            <li>Lucy Forest (NIH) [Building successful collaborations bridging computation and experiment]</li>
-            <li>Eytan Rupin (UMD) [Topic: TBA]</li>
-            <li>Andrey Tovchigrechko (MedImmune) [Reproducible research in bioinformatics and computational biology]</li>
+            <li>Ben Busby (NIH)<br /><i>Topic: TBA</i></li>
+            <li>Liliana D. Florea (JHU)<br /><i>A scientific career in the academia vs. high-tech/bio-tech</i></li>
+            <li>Lucy Forest (NIH)<br /><i>Building successful collaborations bridging computation and experiment</i></li>
+            <li>Eytan Rupin (UMD)<br /><i>How to lead a successful career</i></li>
+            <li>Andrey Tovchigrechko (MedImmune)<br /><i>Reproducible research in bioinformatics and computational biology</i></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2:30 - 3:30</td>
       <td>Applications of Multiple Instance Learning (MIL) and Hashing in Phenotype Prediction from Metagenome Sequences (Mohammad Rahman, GMU)</td>
-      <td>TBD (Justin Wagner, UMD)</td>
+      <td>Microbiome Analysis using Interactive Visualization (Justin Wagner, UMD)</td>
     </tr>
     <tr>
       <td>3:30 - 4:30</td>
