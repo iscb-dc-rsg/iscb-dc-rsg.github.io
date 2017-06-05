@@ -74,7 +74,7 @@ PHY 1204 (Session B).
             <li>Ben Busby (NIH) [Topic: TBA]</li>
             <li>Liliana D. Florea (JHU) [A scientific career in the academia vs. high-tech/bio-tech]</li>
             <li>Lucy Forest (NIH) [Building successful collaborations bridging computation and experiment]</li>
-            <li>Eytan Rupin (UMD) [Topic: TBA]</li>
+            <li>Eytan Rupin (UMD) [How to lead a successful career]</li>
             <li>Andrey Tovchigrechko (MedImmune) [Reproducible research in bioinformatics and computational biology]</li>
         </ul>
       </td>
