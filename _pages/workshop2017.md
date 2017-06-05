@@ -49,7 +49,9 @@ PHY 1204 (Session B).
       <td colspan="2" align="center" valign="center">
       <img src="../images/forrest_keynote_speaker.png" alt="" border='3' height='100' width='100' /> 
       <br />
-      <strong>Keynote Speaker (<a href="https://neuroscience.nih.gov/forrest/Home.aspx">Lucy Forrest</a></strong>: Title (TBA))
+      <strong>Keynote Speaker (<a href="https://neuroscience.nih.gov/forrest/Home.aspx">Lucy Forrest)</a></strong>
+      <br />
+      Connecting the alternating access hypothesis of transmembrane transport to structural asymmetry using modeling and theory
       </td>
     </tr>
     <tr>
