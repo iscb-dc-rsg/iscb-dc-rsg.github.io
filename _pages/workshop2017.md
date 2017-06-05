@@ -42,9 +42,7 @@ PHY 1204 (Session B).
     <tr>
       <td>08:40 - 09:00</td>
       <td colspan="2" align="center" valign="center">
-      <img src="../images/ruppin_0.jpg" alt="" border='3' height='100' width='100' /> 
-      <br />
-      <strong>Welcome and Introductions (<a href="https://sites.umiacs.umd.edu/ruppinlab/">Eytan Ruppin</a>)</strong></td>
+      <strong>Welcome and Introductions</strong></td>
     </tr>
     <tr>
       <td>09:00 - 10:00</td>
