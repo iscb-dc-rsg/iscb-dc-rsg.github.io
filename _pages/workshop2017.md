@@ -20,14 +20,11 @@ etc.
 
 # Schedule
 
-<span style="color:red">NOTE: The following schedule is incomplete and is
-likely to change in the coming weeks.</span>
-
 Workshop talks have been divided into three sessions throughout the day:
 Morning I, Morning II, and Afternoon I. During each session, participants can
 choose from one of two talks to attend.
 
-The workshops will take place in one of two locations: BRB 1412 (Session A) and
+The workshops will take place in one of two locations: PHY 1412 (Session A) and
 PHY 1204 (Session B).
 
 <table id='schedule-table'>
@@ -73,7 +70,7 @@ PHY 1204 (Session B).
       <td colspan="2" align="center">
         <strong>Lunch with Leaders from Academia and Industry</strong><br />
         <ul style='columns: 1; -webkit-columns: 1; -moz-columns: 1; list-style: none;'>
-            <li>Ben Busby (NIH)<br /><i>Topic: TBA</i></li>
+            <li>Ben Busby (NIH)<br /><i>Building robots to mine primary genomic datasets in hackathons and elsewhere!</i></li>
             <li>Liliana D. Florea (JHU)<br /><i>A scientific career in the academia vs. high-tech/bio-tech</i></li>
             <li>Lucy Forest (NIH)<br /><i>Building successful collaborations bridging computation and experiment</i></li>
             <li>Eytan Rupin (UMD)<br /><i>How to lead a successful career</i></li>
@@ -102,8 +99,9 @@ PHY 1204 (Session B).
 </table>
 
 # Registration
- * Deadline: TBD
- * URL: TBA
+
+ * Deadline: **July 6, 2017**
+ * URL: [http://tinyurl.com/dc-rsg-2017](http://tinyurl.com/dc-rsg-2017)
 
 Registration is FREE, but it is required in order for us to determine how many
 people to accommodate for lunch. If you are not able to register by the date
@@ -148,8 +146,6 @@ green line and the University of Maryland campus:
 
 # Driving
 
-<!-- TODO: Add nearest parking location -->
-
 There are metered parking spaces throughout the campus. See the [UMD DOTS
 website](http://www.transportation.umd.edu/maps&apps.html) for more information
 on parking locations and rates.
@@ -170,7 +166,12 @@ If you have any questions about the meeting, you can contact one of the meeting 
 
 # Flyer
 
-  TBA
+<div>
+    <a href='/images/workshop-2017/iscb-dc-rsg_summer_2017_workshop_flyer.pdf'>
+        <img src="/images/workshop-2017/iscb-dc-rsg_summer_2017_workshop_flyer_thumb.png" style="vertical-align: middle; box-shadow: 10px 10px 5px #888888; height: 175px;" />
+    </a>
+    <span style="vertical-align: middle; margin-left: 15px; ">Single-page PDF meeting advertisement.</span>
+</div>
 
 # Sponsors
 
