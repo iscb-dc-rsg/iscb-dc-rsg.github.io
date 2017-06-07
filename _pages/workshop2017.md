@@ -162,7 +162,7 @@ Each lot is about a 10 minute walk from the workshop venue.
 
 # Contact
 
-If you have any questions about the meeting, you can contact one of the meeting [organizers](https://iscb-dc-rsg.github.io/organizers/).
+If you have any questions about the meeting, please contact [Keith Hughitt](mailto://khughitt@umd.edu).
 
 # Flyer
 
