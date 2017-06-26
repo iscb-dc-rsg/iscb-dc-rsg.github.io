@@ -57,7 +57,7 @@ PHY 1204 (Session B).
     </tr>
     <tr>
       <td>10:30 - 11:30</td>
-      <td>Network approaches to unravel the Virus world (Jamie Iranzo Sanz, NIH)</td>
+      <td>Network approaches to unravel the Virus world (Jaime Iranzo Sanz, NIH)</td>
       <td>Metagenomic taxon identification: challenges and future directions (Nidhi Shah, UMD)</td>
     </tr>
     <tr>
