@@ -69,6 +69,7 @@ PHY 1204 (Session B).
       <td>12:30 - 2:30</td>
       <td colspan="2" align="center">
         <strong>Lunch with Leaders from Academia and Industry</strong><br />
+        <strong><i>Chemistry atrium</i></strong>
         <ul style='columns: 1; -webkit-columns: 1; -moz-columns: 1; list-style: none;'>
             <li>Ben Busby (NIH)<br /><i>Building robots to mine primary genomic datasets in hackathons and elsewhere!</i></li>
             <li>Liliana D. Florea (JHU)<br /><i>A scientific career in the academia vs. high-tech/bio-tech</i></li>
@@ -87,7 +88,7 @@ PHY 1204 (Session B).
       <td>3:30 - 4:30</td>
       <td colspan="2" align="center">
           <img src="../images/tovchigrechko_industry_speaker.jpg" alt="Andrey Tovchigrechko" border='3' height='100' width='100' /><br />
-          <strong>Industry Speaker: Andrey Tovchigrechko (MedImmune)</strong><br />
+          <strong>Biotech Speaker: Andrey Tovchigrechko (MedImmune)</strong><br />
           Microbiome analysis pipeline for reproducible research: design and applications
       </td>
     </tr>
@@ -111,10 +112,11 @@ register.
 
 # Lunch
 
-Lunch will be provided for all registered attendees. Vegetarian and vegan
-options will be provided. If you have other special dietary needs, please
-contact one of the organizers and we will make sure that there is something
-suitable provided.
+Lunch will be provided for all registered attendees and will take place in the
+Chemistry building atrium immediately next to the Physics building. Vegetarian
+and vegan options will be provided. If you have other special dietary needs,
+please contact one of the organizers and we will make sure that there is
+something suitable provided.
 
 # Venue
 
